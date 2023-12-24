@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru/
+#driver_path: /Users/allasoloveva/Desktop/Geek/selenium/chromedriver
+browser: chrome
+sleep_time: 3
+login: 'Sidor03'
+password: 'a291844463'
+title: 'post for homework 2'
+description: 'this post is to accomplish homework 2 in API Python'
+content: 'homework 2 is to create post and check that it has been properly saved'
